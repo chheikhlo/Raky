@@ -1,0 +1,4 @@
+1)img 'ajout image icone et background' (c'est le dossier img k je dois ajouter lui meme dans le plug)
+2)connexion 'ajout page connexion (page par défaut) et choixClasseMatière 'ajout page choixClasseMatière (page par défaut) 
+3)ClasseMatière.js' (doit etre ajouter dans le dossier js) et VerifConnexion.js' (doit etre ajouter dans le dossier js)
+4)bootstrap-4.3.1-dist 'Un peu de Bootstrap' (c'est le dossier bootstrap k je dois ajouter lui meme dans le plug)
